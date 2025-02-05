@@ -1,6 +1,5 @@
 # Hi there, I am Aleksandra👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashaCHU-st&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaCHU-st
-&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashaCHU-st&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
