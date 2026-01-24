@@ -44,15 +44,26 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-
+## Web/Mobile Application projects
 ### Personal projects:
 - [***Space Explorer***](https://nasa-portfolio.vercel.app/) ([repo](https://github.com/SashaCHU-st/Nasa_Portfolio))- personal project. This project was created to practice building a full-stack application using PostgreSQL, Node.js (Fastify), Three.js, React, TypeScript, and the NASA API.
 - ***Mobile App: Recipes to Share with Friends*** ([repo](https://github.com/SashaCHU-st/Mobile_app))- personla project. A React Native app for food recipes where users can:Browse meals with nutrition information and recipes. Add friends and view each other's recipes. Chat with friends via WebSocket
-- ***Snowman*** [repo](https://github.com/SashaCHU-st/Snowman) - Simple project made with ThreeJS library. Like to creating something beatiful
+- [***Snowman***](https://snowman-lilac.vercel.app/) [repo](https://github.com/SashaCHU-st/Snowman) - Simple project made with ThreeJS library. Like to creating something beatiful
+- Coming soon...
 
 ### Group Project
 - ***ft_transcendence*** [repo](https://github.com/SashaCHU-st/ft_transcendence) - Hive Helsinki school project made in group.A secure, feature-rich Pong game with local & online multiplayer, AI opponent, user management, tournament system, 3D graphics, monitoring tools, and full Dockerized deployment.
 
+## Other school projects
+- ***C++ projects*** [repo](https://github.com/SashaCHU-st/CPP) - contains exercises and projects to learn C++
+- ***ft_irc C++***[repo](https://github.com/SashaCHU-st/ft_irc) - ft_irc is a project dedicated to building a custom IRC (Internet Relay Chat) server
+- ***Minishell C*** [repo](https://github.com/SashaCHU-st/Minishell) - simulation behavior as bash
+- ***Push_swap C*** [repo](https://github.com/SashaCHU-st/push_swap) - project focuses on sorting a given set of numbers in ascending order
+- ***Philosophers C*** [repo](https://github.com/SashaCHU-st/Philosophers) - Philosophers problems
+- ***Cub3D C*** [repo](https://github.com/SashaCHU-st/Cub3D) - Cub3D is the second graphic project written in C, using the MLX42 library.
+- ***get_next_line C*** [repo](https://github.com/SashaCHU-st/get_next_line) - reads the file one line at the time
+- ***pipex C*** [repo](https://github.com/SashaCHU-st/pipex)- This project involves creating a program that simulates the behavior of pipes in Unix-like systems.
+- ***ft_print C*** [repo](https://github.com/SashaCHU-st/ft_printf) - Creating your own program that behaves like the standard library function printf involves implementing formatted output functionality.
 
 
 <!--
