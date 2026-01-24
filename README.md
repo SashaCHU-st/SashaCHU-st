@@ -47,7 +47,7 @@
 ## Web/Mobile Application projects
 ### Personal projects:
 - [***Space Explorer***](https://nasa-portfolio.vercel.app/) ([repo](https://github.com/SashaCHU-st/Nasa_Portfolio))- personal project. This project was created to practice building a full-stack application using PostgreSQL, Node.js (Fastify), Three.js, React, TypeScript, and the NASA API.
-- ***Mobile App: Recipes to Share with Friends*** ([repo](https://github.com/SashaCHU-st/Mobile_app))- personla project. A React Native app for food recipes where users can:Browse meals with nutrition information and recipes. Add friends and view each other's recipes. Chat with friends via WebSocket
+- ***Mobile App: Recipes to Share with Friends*** ([repo](https://github.com/SashaCHU-st/Mobile_app))- personal project. A React Native app for food recipes where users can:Browse meals with nutrition information and recipes. Add friends and view each other's recipes. Chat with friends via WebSocket
 - [***Snowman***](https://snowman-lilac.vercel.app/) [repo](https://github.com/SashaCHU-st/Snowman) - Simple project made with ThreeJS library. Like to creating something beatiful
 - Coming soon...
 
